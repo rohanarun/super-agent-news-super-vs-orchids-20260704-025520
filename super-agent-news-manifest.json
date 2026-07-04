@@ -1,0 +1,35 @@
+{
+  "citations": [
+    {
+      "label": "personal AI agents adoption",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg"
+    },
+    {
+      "label": "computer use in Gemini",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0"
+    },
+    {
+      "label": "security risks in open-source agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    }
+  ],
+  "design_plan": "rng=42; hero_math=maxw1120 2-3 lines; AIDA ok; bento_density grid-auto-flow:dense; label_sweep competitors all mentioned; button_contrast black/white verified",
+  "generated_at": "2026-07-04T02:55:27.330643+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair comparison for people evaluating Orchids alongside Super. Orchids explores messaging\u2011centric and experimental agent experiences. Super is built for durable computer\u2011use workflows \u2014 with a reusable computer-use cache so repeated tasks get faster and cheaper over time."
+}
